@@ -78,7 +78,9 @@ The dataset was cleaned and preprocessed with the following steps:
 
 ## Access the Jupyter Notebook
 
-For detailed analysis, model code, and visualizations, please refer to the Jupyter Notebook:
+For detailed analysis, model code, and visualizations, please refer to the Jupyter Notebook: https://github.com/shaileshb2024/Marketing-Campaign-Analysis/blob/main/mywork_prompt.ipynb
+
+
 
  
 
